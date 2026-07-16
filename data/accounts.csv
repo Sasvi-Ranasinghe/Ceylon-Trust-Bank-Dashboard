@@ -1,0 +1,501 @@
+AccountNo,CustomerID,AccountType,BranchID,BranchName,Currency,Balance,InterestRate,Status,ATMCard,InternetBanking,MobileBanking,KYCStatus,RiskLevel,OpenDate
+ACC000001,C0001,Savings,B008,Kurunegala,LKR,68823,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2019-05-01
+ACC000002,C0002,Current,B015,Nuwara Eliya,LKR,1256487,0.0,Active,Yes,Enabled,Enabled,Verified,High,2026-05-17
+ACC000003,C0003,Savings,B003,Negombo,LKR,416581,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-03-04
+ACC000004,C0004,Savings,B003,Negombo,LKR,487610,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-03-22
+ACC000005,C0005,Savings,B004,Kandy,LKR,186007,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2012-04-13
+ACC000006,C0006,Savings,B002,Maharagama,LKR,430408,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-09-16
+ACC000007,C0007,Savings,B012,Jaffna,LKR,471774,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,1984-09-06
+ACC000008,C0008,Current,B012,Jaffna,LKR,1961875,0.0,Active,Yes,Enabled,Enabled,Verified,High,2026-04-14
+ACC000009,C0009,Savings,B013,Ratnapura,LKR,71223,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-06-26
+ACC000010,C0010,Savings,B004,Kandy,LKR,200000,2.5,Closed,Yes,Disabled,Enabled,Verified,Low,2024-09-19
+ACC000011,C0011,Savings,B011,Trincomalee,LKR,87899,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2012-09-05
+ACC000012,C0012,Savings,B007,Matara,LKR,101253,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-03-16
+ACC000013,C0013,Savings,B002,Maharagama,LKR,226448,2.5,Dormant,Yes,Enabled,Enabled,Pending,Low,2017-05-17
+ACC000014,C0014,Current,B011,Trincomalee,LKR,1818768,0.0,Active,Yes,Enabled,Enabled,Verified,High,2019-03-21
+ACC000015,C0015,Current,B014,Badulla,LKR,1362491,0.0,Active,Yes,Enabled,Disabled,Verified,High,2019-04-23
+ACC000016,C0016,Fixed Deposit,B014,Badulla,LKR,4533258,8.5,Dormant,No,Enabled,Enabled,Verified,High,2008-07-19
+ACC000017,C0017,Savings,B008,Kurunegala,LKR,265661,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-04-15
+ACC000018,C0018,Savings,B012,Jaffna,LKR,179655,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2021-04-29
+ACC000019,C0019,Savings,B013,Ratnapura,LKR,475707,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2018-05-07
+ACC000020,C0020,Savings,B015,Nuwara Eliya,LKR,235987,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-09-12
+ACC000021,C0021,Current,B014,Badulla,LKR,1277069,0.0,Active,Yes,Enabled,Disabled,Verified,High,2018-09-21
+ACC000022,C0022,Savings,B010,Batticaloa,LKR,27464,2.5,Active,Yes,Disabled,Disabled,Verified,Low,2015-07-11
+ACC000023,C0023,Savings,B009,Anuradhapura,LKR,291674,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-01-27
+ACC000024,C0024,Savings,B014,Badulla,LKR,378653,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-02-07
+ACC000025,C0025,Current,B006,Galle,LKR,515469,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2022-05-04
+ACC000026,C0026,Current,B010,Batticaloa,LKR,196204,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2002-12-18
+ACC000027,C0027,Savings,B001,Colombo Fort,LKR,363761,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2021-10-03
+ACC000028,C0028,Savings,B004,Kandy,LKR,387592,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-09-20
+ACC000029,C0029,Savings,B003,Negombo,LKR,466140,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2012-07-03
+ACC000030,C0030,Savings,B012,Jaffna,LKR,335287,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2013-06-01
+ACC000031,C0031,Savings,B013,Ratnapura,LKR,292173,2.5,Dormant,Yes,Enabled,Disabled,Verified,Medium,2026-06-19
+ACC000032,C0032,Savings,B009,Anuradhapura,LKR,299235,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-07-30
+ACC000033,C0033,Current,B013,Ratnapura,LKR,1966882,0.0,Active,Yes,Enabled,Enabled,Verified,High,2007-07-29
+ACC000034,C0034,Current,B014,Badulla,LKR,71837,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2025-08-23
+ACC000035,C0035,Savings,B004,Kandy,LKR,80383,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-06-25
+ACC000036,C0036,Savings,B013,Ratnapura,LKR,205344,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2004-05-17
+ACC000037,C0037,Savings,B012,Jaffna,LKR,354317,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2006-05-06
+ACC000038,C0038,Savings,B012,Jaffna,LKR,221496,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2013-06-20
+ACC000039,C0039,Savings,B009,Anuradhapura,LKR,107632,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2026-04-16
+ACC000040,C0040,Savings,B015,Nuwara Eliya,LKR,97109,2.5,Active,Yes,Disabled,Disabled,Verified,Low,2024-12-19
+ACC000041,C0041,Savings,B012,Jaffna,LKR,478790,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-02-16
+ACC000042,C0042,Fixed Deposit,B009,Anuradhapura,LKR,503164,8.5,Active,No,Enabled,Enabled,Verified,Medium,2018-11-22
+ACC000043,C0043,Savings,B008,Kurunegala,LKR,294206,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2024-11-21
+ACC000044,C0044,Savings,B013,Ratnapura,LKR,298292,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-11-26
+ACC000045,C0045,Current,B014,Badulla,LKR,1116678,0.0,Active,Yes,Enabled,Enabled,Pending,High,2023-03-24
+ACC000046,C0046,Savings,B014,Badulla,LKR,216693,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-06-05
+ACC000047,C0047,Savings,B009,Anuradhapura,LKR,488792,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-02-12
+ACC000048,C0048,Fixed Deposit,B011,Trincomalee,LKR,2667410,8.5,Active,No,Enabled,Enabled,Verified,High,2026-06-29
+ACC000049,C0049,Savings,B013,Ratnapura,LKR,140301,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2015-12-02
+ACC000050,C0050,Savings,B012,Jaffna,LKR,132149,2.5,Active,Yes,Enabled,Enabled,Verified,Low,1996-08-18
+ACC000051,C0051,Savings,B007,Matara,LKR,483793,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2024-05-10
+ACC000052,C0052,Savings,B009,Anuradhapura,LKR,100144,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2017-03-20
+ACC000053,C0053,Savings,B015,Nuwara Eliya,LKR,104811,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2026-01-31
+ACC000054,C0054,Savings,B012,Jaffna,LKR,90593,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-08-18
+ACC000055,C0055,Fixed Deposit,B009,Anuradhapura,LKR,258704,8.5,Dormant,No,Enabled,Disabled,Verified,Medium,2017-01-09
+ACC000056,C0056,Savings,B001,Colombo Fort,LKR,204696,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2018-03-21
+ACC000057,C0057,Savings,B003,Negombo,LKR,314667,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2024-11-13
+ACC000058,C0058,Fixed Deposit,B010,Batticaloa,LKR,3270901,8.5,Active,No,Enabled,Enabled,Verified,High,2026-05-14
+ACC000059,C0059,Savings,B013,Ratnapura,LKR,429495,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2006-11-20
+ACC000060,C0060,Savings,B006,Galle,LKR,377101,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-12-02
+ACC000061,C0061,Savings,B009,Anuradhapura,LKR,332092,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-11-16
+ACC000062,C0062,Fixed Deposit,B012,Jaffna,LKR,2729332,8.5,Dormant,No,Enabled,Disabled,Verified,High,2026-01-03
+ACC000063,C0063,Current,B009,Anuradhapura,LKR,1191466,0.0,Active,Yes,Enabled,Enabled,Verified,High,2022-01-09
+ACC000064,C0064,Savings,B009,Anuradhapura,LKR,333330,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-08-31
+ACC000065,C0065,Savings,B009,Anuradhapura,LKR,422999,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2025-12-31
+ACC000066,C0066,Current,B005,Matale,LKR,1269110,0.0,Active,Yes,Enabled,Enabled,Verified,High,2024-12-01
+ACC000067,C0067,Savings,B015,Nuwara Eliya,LKR,289625,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-09-29
+ACC000068,C0068,Savings,B007,Matara,LKR,242673,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2024-12-13
+ACC000069,C0069,Fixed Deposit,B013,Ratnapura,LKR,4091930,8.5,Active,No,Enabled,Enabled,Verified,High,2020-03-25
+ACC000070,C0070,Savings,B008,Kurunegala,LKR,284955,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2014-03-21
+ACC000071,C0071,Savings,B004,Kandy,LKR,294617,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2013-01-21
+ACC000072,C0072,Savings,B012,Jaffna,LKR,33571,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-02-27
+ACC000073,C0073,Savings,B001,Colombo Fort,LKR,476939,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-03-04
+ACC000074,C0074,Savings,B008,Kurunegala,LKR,100036,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-02-21
+ACC000075,C0075,Savings,B009,Anuradhapura,LKR,62228,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2016-04-24
+ACC000076,C0076,Savings,B001,Colombo Fort,LKR,68799,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-12-11
+ACC000077,C0077,Savings,B008,Kurunegala,LKR,498511,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2005-09-01
+ACC000078,C0078,Savings,B010,Batticaloa,LKR,139656,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2020-11-05
+ACC000079,C0079,Current,B013,Ratnapura,LKR,380975,0.0,Dormant,Yes,Enabled,Enabled,Verified,Medium,2026-06-14
+ACC000080,C0080,Current,B012,Jaffna,LKR,416120,0.0,Active,Yes,Disabled,Disabled,Verified,Medium,2023-06-05
+ACC000081,C0081,Savings,B008,Kurunegala,LKR,149967,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2021-12-09
+ACC000082,C0082,Savings,B012,Jaffna,LKR,478153,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-11-09
+ACC000083,C0083,Savings,B008,Kurunegala,LKR,77454,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-05-02
+ACC000084,C0084,Savings,B001,Colombo Fort,LKR,320804,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2023-09-10
+ACC000085,C0085,Savings,B008,Kurunegala,LKR,341122,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2021-07-31
+ACC000086,C0086,Savings,B012,Jaffna,LKR,179450,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-03-25
+ACC000087,C0087,Current,B013,Ratnapura,LKR,948886,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2021-10-21
+ACC000088,C0088,Savings,B004,Kandy,LKR,398381,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-04-15
+ACC000089,C0089,Savings,B001,Colombo Fort,LKR,158128,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2025-12-26
+ACC000090,C0090,Savings,B014,Badulla,LKR,263484,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2026-05-28
+ACC000091,C0091,Savings,B007,Matara,LKR,71565,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2020-12-30
+ACC000092,C0092,Savings,B007,Matara,LKR,41128,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-09-29
+ACC000093,C0093,Current,B008,Kurunegala,LKR,1088110,0.0,Active,Yes,Enabled,Enabled,Verified,High,2022-05-28
+ACC000094,C0094,Savings,B010,Batticaloa,LKR,356556,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-05-28
+ACC000095,C0095,Fixed Deposit,B009,Anuradhapura,LKR,1674492,8.5,Dormant,No,Enabled,Disabled,Verified,High,2023-10-10
+ACC000096,C0096,Savings,B008,Kurunegala,LKR,367732,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2025-07-21
+ACC000097,C0097,Savings,B013,Ratnapura,LKR,384628,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-03-12
+ACC000098,C0098,Savings,B014,Badulla,LKR,331663,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-06-27
+ACC000099,C0099,Savings,B009,Anuradhapura,LKR,283612,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2001-10-09
+ACC000100,C0100,Savings,B007,Matara,LKR,339168,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2022-03-16
+ACC000101,C0101,Savings,B015,Nuwara Eliya,LKR,94202,2.5,Active,Yes,Disabled,Disabled,Verified,Low,2022-08-13
+ACC000102,C0102,Savings,B014,Badulla,LKR,265874,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-04-21
+ACC000103,C0103,Fixed Deposit,B013,Ratnapura,LKR,1690834,8.5,Active,No,Enabled,Enabled,Verified,High,1989-01-31
+ACC000104,C0104,Savings,B011,Trincomalee,LKR,401180,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-12-24
+ACC000105,C0105,Savings,B013,Ratnapura,LKR,117809,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2016-08-24
+ACC000106,C0106,Current,B008,Kurunegala,LKR,114804,0.0,Active,Yes,Disabled,Enabled,Verified,Low,2017-12-26
+ACC000107,C0107,Current,B013,Ratnapura,LKR,305333,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2024-03-24
+ACC000108,C0108,Current,B010,Batticaloa,LKR,1869232,0.0,Active,Yes,Enabled,Enabled,Verified,High,2015-06-04
+ACC000109,C0109,Savings,B009,Anuradhapura,LKR,219308,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2023-07-08
+ACC000110,C0110,Savings,B012,Jaffna,LKR,36643,2.5,Dormant,Yes,Disabled,Enabled,Verified,Low,2026-02-05
+ACC000111,C0111,Savings,B012,Jaffna,LKR,484709,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2014-02-09
+ACC000112,C0112,Current,B009,Anuradhapura,LKR,1138371,0.0,Active,Yes,Enabled,Disabled,Verified,High,1992-10-16
+ACC000113,C0113,Savings,B013,Ratnapura,LKR,16602,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2020-04-17
+ACC000114,C0114,Savings,B001,Colombo Fort,LKR,327328,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2019-06-20
+ACC000115,C0115,Savings,B007,Matara,LKR,457798,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2016-01-06
+ACC000116,C0116,Savings,B012,Jaffna,LKR,345720,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2022-02-27
+ACC000117,C0117,Savings,B012,Jaffna,LKR,358095,2.5,Active,Yes,Enabled,Enabled,Pending,Medium,2022-01-24
+ACC000118,C0118,Savings,B010,Batticaloa,LKR,401422,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2012-11-21
+ACC000119,C0119,Savings,B012,Jaffna,LKR,345965,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2018-12-05
+ACC000120,C0120,Savings,B014,Badulla,LKR,60865,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2013-12-23
+ACC000121,C0121,Savings,B005,Matale,LKR,168105,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2021-09-18
+ACC000122,C0122,Savings,B012,Jaffna,LKR,286177,2.5,Active,Yes,Disabled,Disabled,Verified,Medium,2021-12-11
+ACC000123,C0123,Fixed Deposit,B008,Kurunegala,LKR,4840522,8.5,Dormant,No,Enabled,Enabled,Verified,High,2016-11-20
+ACC000124,C0124,Savings,B011,Trincomalee,LKR,49333,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-12-09
+ACC000125,C0125,Savings,B010,Batticaloa,LKR,279556,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-09-07
+ACC000126,C0126,Savings,B012,Jaffna,LKR,285322,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2005-08-12
+ACC000127,C0127,Savings,B004,Kandy,LKR,460938,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-03-29
+ACC000128,C0128,Savings,B007,Matara,LKR,392352,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-08-21
+ACC000129,C0129,Current,B006,Galle,LKR,877774,0.0,Dormant,Yes,Disabled,Enabled,Verified,Medium,2017-04-16
+ACC000130,C0130,Savings,B008,Kurunegala,LKR,282997,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2007-09-05
+ACC000131,C0131,Current,B002,Maharagama,LKR,351150,0.0,Active,Yes,Enabled,Disabled,Verified,Medium,2024-02-05
+ACC000132,C0132,Savings,B007,Matara,LKR,332626,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-03-06
+ACC000133,C0133,Savings,B010,Batticaloa,LKR,50945,2.5,Dormant,Yes,Disabled,Enabled,Verified,Low,2024-02-16
+ACC000134,C0134,Current,B015,Nuwara Eliya,LKR,1210340,0.0,Active,Yes,Enabled,Enabled,Verified,High,2024-10-01
+ACC000135,C0135,Fixed Deposit,B006,Galle,LKR,4914348,8.5,Active,No,Enabled,Disabled,Verified,High,2024-03-01
+ACC000136,C0136,Savings,B015,Nuwara Eliya,LKR,384837,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-04-14
+ACC000137,C0137,Fixed Deposit,B010,Batticaloa,LKR,4528527,8.5,Active,No,Enabled,Enabled,Verified,High,2024-06-03
+ACC000138,C0138,Savings,B015,Nuwara Eliya,LKR,480912,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2011-04-05
+ACC000139,C0139,Savings,B015,Nuwara Eliya,LKR,425108,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-03-23
+ACC000140,C0140,Savings,B006,Galle,LKR,189167,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2013-08-19
+ACC000141,C0141,Savings,B014,Badulla,LKR,302258,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2013-10-02
+ACC000142,C0142,Savings,B008,Kurunegala,LKR,316248,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-01-01
+ACC000143,C0143,Savings,B008,Kurunegala,LKR,486341,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2005-01-06
+ACC000144,C0144,Current,B008,Kurunegala,LKR,1010019,0.0,Active,Yes,Enabled,Disabled,Verified,High,2023-02-27
+ACC000145,C0145,Savings,B009,Anuradhapura,LKR,479644,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-03-27
+ACC000146,C0146,Current,B012,Jaffna,LKR,1687518,0.0,Active,Yes,Disabled,Enabled,Verified,High,2025-04-12
+ACC000147,C0147,Current,B013,Ratnapura,LKR,138503,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2018-02-02
+ACC000148,C0148,Savings,B008,Kurunegala,LKR,157080,2.5,Dormant,Yes,Enabled,Disabled,Verified,Low,2019-08-29
+ACC000149,C0149,Savings,B008,Kurunegala,LKR,21651,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2014-03-28
+ACC000150,C0150,Savings,B005,Matale,LKR,479929,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-09-19
+ACC000151,C0151,Savings,B009,Anuradhapura,LKR,193664,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2026-06-20
+ACC000152,C0152,Fixed Deposit,B013,Ratnapura,LKR,2367832,8.5,Active,No,Enabled,Enabled,Verified,High,2025-09-01
+ACC000153,C0153,Current,B012,Jaffna,LKR,1818743,0.0,Active,Yes,Enabled,Enabled,Verified,High,2011-08-19
+ACC000154,C0154,Current,B004,Kandy,LKR,356866,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2023-01-05
+ACC000155,C0155,Savings,B012,Jaffna,LKR,337302,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2022-07-27
+ACC000156,C0156,Savings,B010,Batticaloa,LKR,491947,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2022-05-01
+ACC000157,C0157,Savings,B013,Ratnapura,LKR,103077,2.5,Closed,Yes,Enabled,Enabled,Verified,Low,2026-06-17
+ACC000158,C0158,Savings,B015,Nuwara Eliya,LKR,370558,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2025-10-27
+ACC000159,C0159,Fixed Deposit,B006,Galle,LKR,2788293,8.5,Dormant,No,Enabled,Enabled,Verified,High,2016-02-22
+ACC000160,C0160,Savings,B012,Jaffna,LKR,228620,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2018-12-07
+ACC000161,C0161,Savings,B012,Jaffna,LKR,306475,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2019-05-19
+ACC000162,C0162,Savings,B013,Ratnapura,LKR,378374,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2024-07-18
+ACC000163,C0163,Savings,B006,Galle,LKR,70147,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-10-16
+ACC000164,C0164,Savings,B007,Matara,LKR,493291,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2014-06-05
+ACC000165,C0165,Savings,B004,Kandy,LKR,406006,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-02-28
+ACC000166,C0166,Savings,B005,Matale,LKR,66109,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2017-04-18
+ACC000167,C0167,Savings,B012,Jaffna,LKR,494878,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-01-05
+ACC000168,C0168,Savings,B010,Batticaloa,LKR,108667,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2026-07-05
+ACC000169,C0169,Current,B005,Matale,LKR,908236,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-02-18
+ACC000170,C0170,Savings,B006,Galle,LKR,262779,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-09-14
+ACC000171,C0171,Savings,B009,Anuradhapura,LKR,208479,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2012-03-08
+ACC000172,C0172,Savings,B015,Nuwara Eliya,LKR,83180,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2019-06-11
+ACC000173,C0173,Savings,B008,Kurunegala,LKR,448257,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-03-15
+ACC000174,C0174,Savings,B013,Ratnapura,LKR,428975,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-03-02
+ACC000175,C0175,Current,B006,Galle,LKR,326075,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-10-04
+ACC000176,C0176,Savings,B009,Anuradhapura,LKR,379188,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2022-12-08
+ACC000177,C0177,Savings,B014,Badulla,LKR,363044,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,1992-11-12
+ACC000178,C0178,Fixed Deposit,B006,Galle,LKR,1381212,8.5,Active,No,Enabled,Enabled,Verified,High,2025-11-03
+ACC000179,C0179,Current,B006,Galle,LKR,911798,0.0,Active,Yes,Disabled,Enabled,Verified,Medium,2008-08-10
+ACC000180,C0180,Fixed Deposit,B014,Badulla,LKR,3889995,8.5,Active,No,Enabled,Disabled,Verified,High,2011-09-28
+ACC000181,C0181,Savings,B004,Kandy,LKR,364218,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-08-10
+ACC000182,C0182,Savings,B005,Matale,LKR,82623,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2023-02-13
+ACC000183,C0183,Savings,B009,Anuradhapura,LKR,191461,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-11-22
+ACC000184,C0184,Savings,B013,Ratnapura,LKR,73445,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-03-09
+ACC000185,C0185,Current,B004,Kandy,LKR,1709852,0.0,Active,Yes,Enabled,Enabled,Verified,High,2008-08-12
+ACC000186,C0186,Savings,B008,Kurunegala,LKR,471897,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-02-10
+ACC000187,C0187,Current,B009,Anuradhapura,LKR,1110402,0.0,Active,Yes,Disabled,Enabled,Verified,High,2019-08-01
+ACC000188,C0188,Current,B014,Badulla,LKR,1404678,0.0,Active,Yes,Enabled,Enabled,Verified,High,2025-06-04
+ACC000189,C0189,Savings,B014,Badulla,LKR,18771,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-11-22
+ACC000190,C0190,Fixed Deposit,B010,Batticaloa,LKR,3711748,8.5,Active,No,Enabled,Enabled,Verified,High,2025-04-21
+ACC000191,C0191,Savings,B008,Kurunegala,LKR,244147,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2023-10-19
+ACC000192,C0192,Savings,B006,Galle,LKR,185540,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-08-07
+ACC000193,C0193,Savings,B006,Galle,LKR,347141,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-01-01
+ACC000194,C0194,Current,B006,Galle,LKR,757459,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2009-08-09
+ACC000195,C0195,Current,B010,Batticaloa,LKR,1624532,0.0,Active,Yes,Enabled,Enabled,Verified,High,2025-11-16
+ACC000196,C0196,Current,B013,Ratnapura,LKR,1383109,0.0,Active,Yes,Enabled,Enabled,Verified,High,2025-05-18
+ACC000197,C0197,Savings,B013,Ratnapura,LKR,271861,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-07-11
+ACC000198,C0198,Savings,B013,Ratnapura,LKR,314745,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-08-01
+ACC000199,C0199,Savings,B012,Jaffna,LKR,238032,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-05-21
+ACC000200,C0200,Savings,B012,Jaffna,LKR,363360,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2017-07-30
+ACC000201,C0201,Savings,B008,Kurunegala,LKR,364071,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2020-04-15
+ACC000202,C0202,Savings,B009,Anuradhapura,LKR,261473,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-06-23
+ACC000203,C0203,Savings,B014,Badulla,LKR,323108,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2018-01-15
+ACC000204,C0204,Current,B002,Maharagama,LKR,1968759,0.0,Closed,Yes,Enabled,Disabled,Verified,High,2024-11-17
+ACC000205,C0205,Savings,B003,Negombo,LKR,209333,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-04-10
+ACC000206,C0206,Current,B012,Jaffna,LKR,765245,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2023-04-05
+ACC000207,C0207,Savings,B011,Trincomalee,LKR,441050,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-05-07
+ACC000208,C0208,Savings,B013,Ratnapura,LKR,287493,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-08-15
+ACC000209,C0209,Savings,B005,Matale,LKR,374163,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-06-12
+ACC000210,C0210,Current,B011,Trincomalee,LKR,1073739,0.0,Active,Yes,Enabled,Enabled,Verified,High,2024-06-03
+ACC000211,C0211,Savings,B007,Matara,LKR,272621,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2024-11-16
+ACC000212,C0212,Savings,B005,Matale,LKR,202432,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2015-10-27
+ACC000213,C0213,Current,B008,Kurunegala,LKR,1275801,0.0,Active,Yes,Enabled,Enabled,Verified,High,2015-08-13
+ACC000214,C0214,Savings,B002,Maharagama,LKR,149889,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-02-06
+ACC000215,C0215,Current,B007,Matara,LKR,908634,0.0,Active,Yes,Disabled,Enabled,Verified,Medium,2022-10-21
+ACC000216,C0216,Savings,B012,Jaffna,LKR,233293,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-10-05
+ACC000217,C0217,Savings,B012,Jaffna,LKR,185927,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-12-18
+ACC000218,C0218,Current,B007,Matara,LKR,598354,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2014-08-18
+ACC000219,C0219,Savings,B008,Kurunegala,LKR,186055,2.5,Active,Yes,Enabled,Enabled,Verified,Low,1998-04-02
+ACC000220,C0220,Savings,B008,Kurunegala,LKR,256909,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2016-12-11
+ACC000221,C0221,Savings,B007,Matara,LKR,157826,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2014-08-19
+ACC000222,C0222,Savings,B012,Jaffna,LKR,118195,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2023-07-15
+ACC000223,C0223,Savings,B013,Ratnapura,LKR,426565,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-10-10
+ACC000224,C0224,Fixed Deposit,B007,Matara,LKR,3424583,8.5,Active,No,Enabled,Enabled,Verified,High,2017-07-28
+ACC000225,C0225,Current,B006,Galle,LKR,876826,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2019-02-27
+ACC000226,C0226,Savings,B012,Jaffna,LKR,257634,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2012-06-14
+ACC000227,C0227,Savings,B006,Galle,LKR,156740,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2017-01-17
+ACC000228,C0228,Savings,B008,Kurunegala,LKR,242245,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-07-10
+ACC000229,C0229,Current,B003,Negombo,LKR,81951,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2020-09-14
+ACC000230,C0230,Current,B011,Trincomalee,LKR,258447,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2020-03-24
+ACC000231,C0231,Savings,B014,Badulla,LKR,330828,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2019-02-05
+ACC000232,C0232,Current,B013,Ratnapura,LKR,982275,0.0,Active,Yes,Disabled,Enabled,Verified,Medium,2023-08-21
+ACC000233,C0233,Current,B005,Matale,LKR,1466140,0.0,Active,Yes,Enabled,Enabled,Verified,High,2006-03-19
+ACC000234,C0234,Savings,B015,Nuwara Eliya,LKR,78143,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-11-12
+ACC000235,C0235,Savings,B014,Badulla,LKR,458518,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2026-02-14
+ACC000236,C0236,Savings,B005,Matale,LKR,111446,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2005-12-13
+ACC000237,C0237,Savings,B014,Badulla,LKR,489768,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2026-06-11
+ACC000238,C0238,Savings,B008,Kurunegala,LKR,376667,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-09-28
+ACC000239,C0239,Savings,B012,Jaffna,LKR,71531,2.5,Active,Yes,Disabled,Enabled,Pending,Low,2020-12-02
+ACC000240,C0240,Savings,B006,Galle,LKR,23133,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2018-10-24
+ACC000241,C0241,Current,B009,Anuradhapura,LKR,458535,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2026-06-26
+ACC000242,C0242,Savings,B010,Batticaloa,LKR,237390,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2013-03-14
+ACC000243,C0243,Savings,B012,Jaffna,LKR,136983,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2004-12-31
+ACC000244,C0244,Savings,B010,Batticaloa,LKR,399521,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-08-31
+ACC000245,C0245,Savings,B011,Trincomalee,LKR,163934,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2025-04-07
+ACC000246,C0246,Fixed Deposit,B012,Jaffna,LKR,4013794,8.5,Active,No,Enabled,Enabled,Verified,High,2022-01-05
+ACC000247,C0247,Savings,B009,Anuradhapura,LKR,495061,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-08-27
+ACC000248,C0248,Savings,B003,Negombo,LKR,19433,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2017-02-03
+ACC000249,C0249,Savings,B009,Anuradhapura,LKR,139689,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2019-09-12
+ACC000250,C0250,Savings,B002,Maharagama,LKR,400035,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2014-08-08
+ACC000251,C0251,Savings,B003,Negombo,LKR,425557,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2013-08-13
+ACC000252,C0252,Savings,B004,Kandy,LKR,21346,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2014-12-01
+ACC000253,C0253,Savings,B005,Matale,LKR,462355,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2018-01-17
+ACC000254,C0254,Savings,B009,Anuradhapura,LKR,242821,2.5,Dormant,Yes,Enabled,Disabled,Verified,Low,2007-04-06
+ACC000255,C0255,Savings,B014,Badulla,LKR,217423,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-03-19
+ACC000256,C0256,Fixed Deposit,B014,Badulla,LKR,507181,8.5,Active,No,Enabled,Disabled,Verified,Medium,2019-12-17
+ACC000257,C0257,Savings,B009,Anuradhapura,LKR,166600,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-05-30
+ACC000258,C0258,Savings,B005,Matale,LKR,315713,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-07-30
+ACC000259,C0259,Fixed Deposit,B007,Matara,LKR,374991,8.5,Active,No,Enabled,Enabled,Verified,Medium,2016-02-27
+ACC000260,C0260,Savings,B010,Batticaloa,LKR,393329,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2014-10-22
+ACC000261,C0261,Savings,B012,Jaffna,LKR,333287,2.5,Active,Yes,Disabled,Disabled,Verified,Medium,2024-07-25
+ACC000262,C0262,Current,B008,Kurunegala,LKR,319899,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2021-06-26
+ACC000263,C0263,Savings,B005,Matale,LKR,188384,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-10-30
+ACC000264,C0264,Current,B009,Anuradhapura,LKR,356038,0.0,Active,Yes,Disabled,Enabled,Verified,Medium,2012-12-23
+ACC000265,C0265,Current,B004,Kandy,LKR,991144,0.0,Active,Yes,Enabled,Disabled,Verified,Medium,2025-01-26
+ACC000266,C0266,Savings,B008,Kurunegala,LKR,91847,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-03-08
+ACC000267,C0267,Savings,B012,Jaffna,LKR,215140,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2017-03-11
+ACC000268,C0268,Current,B015,Nuwara Eliya,LKR,1645331,0.0,Active,Yes,Enabled,Enabled,Verified,High,2021-03-07
+ACC000269,C0269,Savings,B014,Badulla,LKR,444050,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-09-22
+ACC000270,C0270,Savings,B007,Matara,LKR,49159,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-01-26
+ACC000271,C0271,Fixed Deposit,B008,Kurunegala,LKR,4110470,8.5,Active,No,Enabled,Enabled,Verified,High,2018-05-28
+ACC000272,C0272,Fixed Deposit,B007,Matara,LKR,2184505,8.5,Active,No,Enabled,Enabled,Verified,High,2013-08-01
+ACC000273,C0273,Savings,B014,Badulla,LKR,240575,2.5,Dormant,Yes,Disabled,Enabled,Verified,Low,2012-01-31
+ACC000274,C0274,Savings,B012,Jaffna,LKR,66522,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2013-09-13
+ACC000275,C0275,Savings,B009,Anuradhapura,LKR,370978,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-09-25
+ACC000276,C0276,Savings,B013,Ratnapura,LKR,206837,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-09-06
+ACC000277,C0277,Fixed Deposit,B007,Matara,LKR,3366077,8.5,Active,No,Enabled,Enabled,Verified,High,2023-12-29
+ACC000278,C0278,Fixed Deposit,B008,Kurunegala,LKR,3671569,8.5,Active,No,Enabled,Enabled,Verified,High,2020-06-06
+ACC000279,C0279,Savings,B007,Matara,LKR,234446,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-01-20
+ACC000280,C0280,Current,B013,Ratnapura,LKR,1275919,0.0,Active,Yes,Enabled,Enabled,Verified,High,2021-02-11
+ACC000281,C0281,Savings,B010,Batticaloa,LKR,25502,2.5,Active,Yes,Enabled,Enabled,Verified,Low,1999-06-14
+ACC000282,C0282,Current,B009,Anuradhapura,LKR,928177,0.0,Active,Yes,Enabled,Disabled,Verified,Medium,2022-02-04
+ACC000283,C0283,Current,B013,Ratnapura,LKR,824083,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2003-07-31
+ACC000284,C0284,Fixed Deposit,B008,Kurunegala,LKR,2791375,8.5,Active,No,Enabled,Enabled,Verified,High,2026-02-22
+ACC000285,C0285,Savings,B013,Ratnapura,LKR,108710,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2015-02-01
+ACC000286,C0286,Savings,B012,Jaffna,LKR,245848,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2021-09-20
+ACC000287,C0287,Savings,B009,Anuradhapura,LKR,367925,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2021-08-26
+ACC000288,C0288,Current,B013,Ratnapura,LKR,128918,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2013-06-03
+ACC000289,C0289,Current,B009,Anuradhapura,LKR,105801,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2017-02-17
+ACC000290,C0290,Savings,B013,Ratnapura,LKR,374857,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-03-14
+ACC000291,C0291,Savings,B007,Matara,LKR,102247,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2026-03-15
+ACC000292,C0292,Savings,B014,Badulla,LKR,141801,2.5,Closed,Yes,Enabled,Enabled,Verified,Low,2023-02-12
+ACC000293,C0293,Savings,B010,Batticaloa,LKR,68585,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-09-15
+ACC000294,C0294,Savings,B005,Matale,LKR,250871,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-06-28
+ACC000295,C0295,Current,B012,Jaffna,LKR,282651,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2024-12-15
+ACC000296,C0296,Savings,B008,Kurunegala,LKR,55353,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-03-15
+ACC000297,C0297,Fixed Deposit,B008,Kurunegala,LKR,4403619,8.5,Dormant,No,Enabled,Enabled,Verified,High,2014-09-14
+ACC000298,C0298,Savings,B002,Maharagama,LKR,156682,2.5,Active,Yes,Enabled,Disabled,Pending,Low,2023-10-31
+ACC000299,C0299,Savings,B013,Ratnapura,LKR,385538,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-12-05
+ACC000300,C0300,Fixed Deposit,B010,Batticaloa,LKR,3726763,8.5,Active,No,Enabled,Enabled,Verified,High,2020-04-06
+ACC000301,C0301,Savings,B008,Kurunegala,LKR,404016,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-05-19
+ACC000302,C0302,Savings,B009,Anuradhapura,LKR,467930,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-10-04
+ACC000303,C0303,Savings,B010,Batticaloa,LKR,264434,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-10-29
+ACC000304,C0304,Savings,B008,Kurunegala,LKR,237451,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-03-02
+ACC000305,C0305,Savings,B008,Kurunegala,LKR,38229,2.5,Active,Yes,Enabled,Disabled,Pending,Low,2025-07-12
+ACC000306,C0306,Savings,B013,Ratnapura,LKR,164580,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-06-09
+ACC000307,C0307,Savings,B008,Kurunegala,LKR,460016,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2005-09-05
+ACC000308,C0308,Savings,B014,Badulla,LKR,136842,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2023-12-05
+ACC000309,C0309,Savings,B009,Anuradhapura,LKR,296763,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-06-23
+ACC000310,C0310,Savings,B008,Kurunegala,LKR,384973,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-07-14
+ACC000311,C0311,Savings,B005,Matale,LKR,364106,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-07-21
+ACC000312,C0312,Current,B005,Matale,LKR,897898,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2023-11-21
+ACC000313,C0313,Current,B014,Badulla,LKR,1088917,0.0,Active,Yes,Enabled,Enabled,Verified,High,2023-12-19
+ACC000314,C0314,Savings,B012,Jaffna,LKR,263380,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-04-17
+ACC000315,C0315,Savings,B012,Jaffna,LKR,94297,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-04-27
+ACC000316,C0316,Fixed Deposit,B008,Kurunegala,LKR,3306081,8.5,Active,No,Enabled,Enabled,Verified,High,2026-04-04
+ACC000317,C0317,Savings,B014,Badulla,LKR,199560,2.5,Closed,Yes,Enabled,Enabled,Verified,Low,2009-12-07
+ACC000318,C0318,Savings,B005,Matale,LKR,160440,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-07-04
+ACC000319,C0319,Current,B014,Badulla,LKR,1539964,0.0,Active,Yes,Enabled,Enabled,Verified,High,2022-05-07
+ACC000320,C0320,Current,B007,Matara,LKR,1120350,0.0,Active,Yes,Disabled,Enabled,Verified,High,2026-05-19
+ACC000321,C0321,Savings,B011,Trincomalee,LKR,132272,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-06-03
+ACC000322,C0322,Savings,B003,Negombo,LKR,475569,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-02-23
+ACC000323,C0323,Savings,B013,Ratnapura,LKR,280638,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-12-12
+ACC000324,C0324,Savings,B009,Anuradhapura,LKR,109927,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2020-09-13
+ACC000325,C0325,Savings,B003,Negombo,LKR,55045,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-07-14
+ACC000326,C0326,Savings,B012,Jaffna,LKR,441767,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2010-11-29
+ACC000327,C0327,Fixed Deposit,B012,Jaffna,LKR,3091962,8.5,Dormant,No,Enabled,Disabled,Verified,High,2025-09-17
+ACC000328,C0328,Fixed Deposit,B007,Matara,LKR,2248125,8.5,Active,No,Enabled,Enabled,Verified,High,2023-11-23
+ACC000329,C0329,Savings,B011,Trincomalee,LKR,347285,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2016-08-17
+ACC000330,C0330,Savings,B001,Colombo Fort,LKR,403257,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-06-17
+ACC000331,C0331,Savings,B004,Kandy,LKR,239890,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-04-11
+ACC000332,C0332,Savings,B005,Matale,LKR,247888,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-10-10
+ACC000333,C0333,Savings,B005,Matale,LKR,245349,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-03-10
+ACC000334,C0334,Savings,B009,Anuradhapura,LKR,110930,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2026-05-20
+ACC000335,C0335,Savings,B003,Negombo,LKR,356146,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-06-30
+ACC000336,C0336,Current,B005,Matale,LKR,188686,0.0,Active,Yes,Enabled,Enabled,Verified,Low,2022-07-06
+ACC000337,C0337,Current,B005,Matale,LKR,1418240,0.0,Active,Yes,Enabled,Enabled,Verified,High,2019-09-05
+ACC000338,C0338,Savings,B005,Matale,LKR,246725,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2006-09-16
+ACC000339,C0339,Current,B008,Kurunegala,LKR,210303,0.0,Active,Yes,Disabled,Enabled,Verified,Low,2024-02-14
+ACC000340,C0340,Savings,B013,Ratnapura,LKR,118838,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2003-10-03
+ACC000341,C0341,Savings,B014,Badulla,LKR,213100,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-06-21
+ACC000342,C0342,Savings,B012,Jaffna,LKR,150590,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2026-01-01
+ACC000343,C0343,Savings,B013,Ratnapura,LKR,273184,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2022-08-16
+ACC000344,C0344,Current,B003,Negombo,LKR,744734,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2020-12-13
+ACC000345,C0345,Savings,B005,Matale,LKR,470075,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-07-01
+ACC000346,C0346,Fixed Deposit,B003,Negombo,LKR,1007556,8.5,Active,No,Enabled,Enabled,Verified,High,2023-03-02
+ACC000347,C0347,Current,B001,Colombo Fort,LKR,424200,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,1999-05-23
+ACC000348,C0348,Savings,B007,Matara,LKR,30820,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2025-04-17
+ACC000349,C0349,Savings,B008,Kurunegala,LKR,403349,2.5,Dormant,Yes,Enabled,Disabled,Verified,Medium,2019-07-25
+ACC000350,C0350,Savings,B001,Colombo Fort,LKR,444884,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2020-03-27
+ACC000351,C0351,Savings,B012,Jaffna,LKR,148490,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2026-06-17
+ACC000352,C0352,Savings,B010,Batticaloa,LKR,178665,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2021-04-18
+ACC000353,C0353,Savings,B013,Ratnapura,LKR,102289,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-04-14
+ACC000354,C0354,Savings,B008,Kurunegala,LKR,389306,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2022-05-05
+ACC000355,C0355,Savings,B010,Batticaloa,LKR,14809,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2023-10-30
+ACC000356,C0356,Savings,B002,Maharagama,LKR,309284,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2007-07-01
+ACC000357,C0357,Fixed Deposit,B010,Batticaloa,LKR,1449979,8.5,Active,No,Enabled,Enabled,Verified,High,2018-11-18
+ACC000358,C0358,Savings,B011,Trincomalee,LKR,307585,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-10-05
+ACC000359,C0359,Savings,B015,Nuwara Eliya,LKR,173808,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2015-05-25
+ACC000360,C0360,Savings,B015,Nuwara Eliya,LKR,190157,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2010-05-04
+ACC000361,C0361,Savings,B002,Maharagama,LKR,179897,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2009-06-21
+ACC000362,C0362,Savings,B006,Galle,LKR,478672,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-09-25
+ACC000363,C0363,Savings,B011,Trincomalee,LKR,205868,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2020-03-08
+ACC000364,C0364,Current,B009,Anuradhapura,LKR,844856,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-12-27
+ACC000365,C0365,Current,B012,Jaffna,LKR,210237,0.0,Active,Yes,Disabled,Disabled,Verified,Low,2022-08-08
+ACC000366,C0366,Savings,B014,Badulla,LKR,84102,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-04-11
+ACC000367,C0367,Savings,B003,Negombo,LKR,442927,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-12-12
+ACC000368,C0368,Savings,B001,Colombo Fort,LKR,213425,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2023-03-30
+ACC000369,C0369,Fixed Deposit,B001,Colombo Fort,LKR,4428825,8.5,Active,No,Enabled,Enabled,Verified,High,2006-04-06
+ACC000370,C0370,Current,B014,Badulla,LKR,1862389,0.0,Active,Yes,Enabled,Enabled,Verified,High,2018-09-06
+ACC000371,C0371,Savings,B008,Kurunegala,LKR,261926,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2009-06-08
+ACC000372,C0372,Savings,B003,Negombo,LKR,351513,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2022-06-06
+ACC000373,C0373,Savings,B007,Matara,LKR,177297,2.5,Active,Yes,Enabled,Enabled,Verified,Low,1990-11-11
+ACC000374,C0374,Current,B013,Ratnapura,LKR,1960428,0.0,Active,Yes,Enabled,Enabled,Verified,High,2020-10-18
+ACC000375,C0375,Savings,B015,Nuwara Eliya,LKR,183880,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-03-31
+ACC000376,C0376,Savings,B013,Ratnapura,LKR,281681,2.5,Active,Yes,Enabled,Enabled,Pending,Medium,2022-02-25
+ACC000377,C0377,Fixed Deposit,B008,Kurunegala,LKR,4397333,8.5,Active,No,Enabled,Enabled,Verified,High,2026-03-20
+ACC000378,C0378,Savings,B003,Negombo,LKR,383384,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2026-06-04
+ACC000379,C0379,Current,B014,Badulla,LKR,1619917,0.0,Active,Yes,Disabled,Enabled,Verified,High,2026-07-07
+ACC000380,C0380,Savings,B008,Kurunegala,LKR,457056,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-04-25
+ACC000381,C0381,Savings,B013,Ratnapura,LKR,202107,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-04-21
+ACC000382,C0382,Fixed Deposit,B003,Negombo,LKR,1995546,8.5,Dormant,No,Enabled,Enabled,Verified,High,2025-08-13
+ACC000383,C0383,Savings,B013,Ratnapura,LKR,435945,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2015-08-13
+ACC000384,C0384,Fixed Deposit,B007,Matara,LKR,4276491,8.5,Active,No,Enabled,Disabled,Verified,High,2023-05-08
+ACC000385,C0385,Savings,B015,Nuwara Eliya,LKR,296289,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2025-06-15
+ACC000386,C0386,Savings,B012,Jaffna,LKR,349151,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-09-30
+ACC000387,C0387,Current,B008,Kurunegala,LKR,1536881,0.0,Closed,Yes,Disabled,Enabled,Verified,High,2026-06-06
+ACC000388,C0388,Current,B011,Trincomalee,LKR,1695873,0.0,Active,Yes,Enabled,Enabled,Verified,High,2023-05-17
+ACC000389,C0389,Fixed Deposit,B009,Anuradhapura,LKR,629313,8.5,Active,No,Enabled,Enabled,Verified,Medium,2020-11-05
+ACC000390,C0390,Savings,B009,Anuradhapura,LKR,213054,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2016-02-06
+ACC000391,C0391,Savings,B011,Trincomalee,LKR,236222,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2018-01-05
+ACC000392,C0392,Savings,B006,Galle,LKR,321730,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-08-27
+ACC000393,C0393,Current,B013,Ratnapura,LKR,578455,0.0,Closed,Yes,Enabled,Enabled,Verified,Medium,2016-08-04
+ACC000394,C0394,Savings,B010,Batticaloa,LKR,140761,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-10-14
+ACC000395,C0395,Savings,B009,Anuradhapura,LKR,11554,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-09-16
+ACC000396,C0396,Savings,B003,Negombo,LKR,115091,2.5,Closed,Yes,Enabled,Enabled,Verified,Low,2007-10-11
+ACC000397,C0397,Fixed Deposit,B013,Ratnapura,LKR,4498782,8.5,Active,No,Enabled,Enabled,Verified,High,2011-04-28
+ACC000398,C0398,Savings,B009,Anuradhapura,LKR,86377,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2022-12-08
+ACC000399,C0399,Savings,B003,Negombo,LKR,81821,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-11-09
+ACC000400,C0400,Savings,B013,Ratnapura,LKR,77155,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-01-17
+ACC000401,C0401,Savings,B011,Trincomalee,LKR,243532,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2013-01-04
+ACC000402,C0402,Savings,B010,Batticaloa,LKR,417935,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-02-14
+ACC000403,C0403,Savings,B012,Jaffna,LKR,192453,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-11-27
+ACC000404,C0404,Savings,B008,Kurunegala,LKR,452657,2.5,Active,Yes,Enabled,Disabled,Verified,Medium,2022-01-17
+ACC000405,C0405,Savings,B005,Matale,LKR,20955,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-01-23
+ACC000406,C0406,Savings,B008,Kurunegala,LKR,168621,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2025-12-19
+ACC000407,C0407,Savings,B004,Kandy,LKR,19434,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-06-25
+ACC000408,C0408,Savings,B006,Galle,LKR,256229,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,1996-01-01
+ACC000409,C0409,Current,B001,Colombo Fort,LKR,516048,0.0,Active,Yes,Enabled,Disabled,Verified,Medium,2025-03-24
+ACC000410,C0410,Savings,B004,Kandy,LKR,432415,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-07-14
+ACC000411,C0411,Savings,B009,Anuradhapura,LKR,271934,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-04-02
+ACC000412,C0412,Savings,B013,Ratnapura,LKR,148264,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2024-12-29
+ACC000413,C0413,Savings,B005,Matale,LKR,330356,2.5,Closed,Yes,Enabled,Enabled,Verified,Medium,2025-07-02
+ACC000414,C0414,Savings,B009,Anuradhapura,LKR,47093,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-02-20
+ACC000415,C0415,Current,B012,Jaffna,LKR,433152,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2023-12-03
+ACC000416,C0416,Savings,B004,Kandy,LKR,428996,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2019-11-29
+ACC000417,C0417,Savings,B003,Negombo,LKR,445096,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2024-05-08
+ACC000418,C0418,Fixed Deposit,B007,Matara,LKR,4913089,8.5,Active,No,Enabled,Enabled,Verified,High,2026-03-09
+ACC000419,C0419,Savings,B010,Batticaloa,LKR,484083,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-11-26
+ACC000420,C0420,Fixed Deposit,B008,Kurunegala,LKR,3886965,8.5,Active,No,Enabled,Disabled,Verified,High,2025-09-23
+ACC000421,C0421,Current,B002,Maharagama,LKR,1514047,0.0,Dormant,Yes,Enabled,Enabled,Verified,High,2003-09-17
+ACC000422,C0422,Savings,B004,Kandy,LKR,421928,2.5,Dormant,Yes,Enabled,Enabled,Verified,Medium,2018-07-13
+ACC000423,C0423,Savings,B014,Badulla,LKR,236243,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2023-02-23
+ACC000424,C0424,Savings,B014,Badulla,LKR,174334,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-04-21
+ACC000425,C0425,Savings,B007,Matara,LKR,435180,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2020-02-10
+ACC000426,C0426,Savings,B012,Jaffna,LKR,227148,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2025-05-15
+ACC000427,C0427,Current,B009,Anuradhapura,LKR,1450226,0.0,Active,Yes,Enabled,Enabled,Verified,High,2013-07-18
+ACC000428,C0428,Savings,B014,Badulla,LKR,58464,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-12-15
+ACC000429,C0429,Savings,B008,Kurunegala,LKR,437142,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2005-10-20
+ACC000430,C0430,Current,B008,Kurunegala,LKR,952254,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-11-18
+ACC000431,C0431,Savings,B001,Colombo Fort,LKR,453166,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,1999-03-17
+ACC000432,C0432,Savings,B008,Kurunegala,LKR,237667,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2025-11-07
+ACC000433,C0433,Current,B011,Trincomalee,LKR,626691,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2019-07-26
+ACC000434,C0434,Current,B010,Batticaloa,LKR,1271088,0.0,Active,Yes,Enabled,Enabled,Verified,High,2010-01-06
+ACC000435,C0435,Savings,B008,Kurunegala,LKR,120129,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2026-05-30
+ACC000436,C0436,Savings,B008,Kurunegala,LKR,113253,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2018-08-09
+ACC000437,C0437,Fixed Deposit,B008,Kurunegala,LKR,3088168,8.5,Active,No,Enabled,Enabled,Verified,High,2007-05-30
+ACC000438,C0438,Savings,B008,Kurunegala,LKR,107670,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2021-07-16
+ACC000439,C0439,Savings,B005,Matale,LKR,358183,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,1998-08-26
+ACC000440,C0440,Current,B009,Anuradhapura,LKR,1057796,0.0,Active,Yes,Enabled,Disabled,Verified,High,2021-06-29
+ACC000441,C0441,Savings,B003,Negombo,LKR,204581,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-05-27
+ACC000442,C0442,Fixed Deposit,B014,Badulla,LKR,3952310,8.5,Active,No,Enabled,Disabled,Verified,High,2022-06-20
+ACC000443,C0443,Current,B007,Matara,LKR,528253,0.0,Active,Yes,Disabled,Enabled,Verified,Medium,2014-05-28
+ACC000444,C0444,Fixed Deposit,B010,Batticaloa,LKR,1312025,8.5,Active,No,Disabled,Enabled,Verified,High,2016-04-16
+ACC000445,C0445,Current,B011,Trincomalee,LKR,438811,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2017-12-01
+ACC000446,C0446,Savings,B007,Matara,LKR,192635,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2021-10-02
+ACC000447,C0447,Savings,B015,Nuwara Eliya,LKR,257624,2.5,Active,Yes,Disabled,Enabled,Verified,Medium,2009-07-31
+ACC000448,C0448,Savings,B012,Jaffna,LKR,380716,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2013-03-11
+ACC000449,C0449,Savings,B006,Galle,LKR,348222,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-12-03
+ACC000450,C0450,Savings,B015,Nuwara Eliya,LKR,28445,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2019-05-13
+ACC000451,C0451,Savings,B009,Anuradhapura,LKR,383221,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-01-09
+ACC000452,C0452,Savings,B009,Anuradhapura,LKR,73317,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2023-05-21
+ACC000453,C0453,Savings,B009,Anuradhapura,LKR,127505,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2019-09-28
+ACC000454,C0454,Savings,B008,Kurunegala,LKR,105823,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2017-07-02
+ACC000455,C0455,Current,B014,Badulla,LKR,887599,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-05-24
+ACC000456,C0456,Current,B003,Negombo,LKR,1993710,0.0,Dormant,Yes,Enabled,Enabled,Verified,High,2026-05-25
+ACC000457,C0457,Savings,B010,Batticaloa,LKR,315108,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-06-06
+ACC000458,C0458,Current,B014,Badulla,LKR,1262038,0.0,Active,Yes,Enabled,Enabled,Verified,High,2023-12-22
+ACC000459,C0459,Savings,B011,Trincomalee,LKR,318837,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2004-01-06
+ACC000460,C0460,Savings,B014,Badulla,LKR,383070,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2014-02-05
+ACC000461,C0461,Current,B009,Anuradhapura,LKR,1077088,0.0,Active,Yes,Enabled,Enabled,Verified,High,2021-09-04
+ACC000462,C0462,Current,B008,Kurunegala,LKR,1052884,0.0,Active,Yes,Enabled,Enabled,Verified,High,2019-06-07
+ACC000463,C0463,Savings,B010,Batticaloa,LKR,258717,2.5,Dormant,Yes,Enabled,Enabled,Pending,Medium,2016-10-07
+ACC000464,C0464,Savings,B013,Ratnapura,LKR,418530,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2017-12-06
+ACC000465,C0465,Current,B008,Kurunegala,LKR,809452,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2025-10-07
+ACC000466,C0466,Current,B006,Galle,LKR,578039,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2016-05-28
+ACC000467,C0467,Current,B009,Anuradhapura,LKR,759581,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2018-07-03
+ACC000468,C0468,Current,B014,Badulla,LKR,1759782,0.0,Active,Yes,Enabled,Enabled,Verified,High,2023-03-03
+ACC000469,C0469,Savings,B009,Anuradhapura,LKR,492918,2.5,Active,Yes,Enabled,Enabled,Pending,Medium,2004-10-29
+ACC000470,C0470,Savings,B008,Kurunegala,LKR,111286,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-10-16
+ACC000471,C0471,Savings,B013,Ratnapura,LKR,129097,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-01-05
+ACC000472,C0472,Savings,B008,Kurunegala,LKR,38524,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2002-09-11
+ACC000473,C0473,Savings,B012,Jaffna,LKR,120748,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-06-16
+ACC000474,C0474,Savings,B014,Badulla,LKR,341859,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-01-29
+ACC000475,C0475,Savings,B002,Maharagama,LKR,187528,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2004-08-01
+ACC000476,C0476,Current,B008,Kurunegala,LKR,1444407,0.0,Active,Yes,Enabled,Enabled,Verified,High,2022-10-24
+ACC000477,C0477,Savings,B013,Ratnapura,LKR,135106,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-02-23
+ACC000478,C0478,Savings,B009,Anuradhapura,LKR,69882,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2026-07-10
+ACC000479,C0479,Fixed Deposit,B006,Galle,LKR,2771527,8.5,Active,No,Disabled,Enabled,Verified,High,2025-11-01
+ACC000480,C0480,Current,B001,Colombo Fort,LKR,302631,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2022-07-23
+ACC000481,C0481,Savings,B013,Ratnapura,LKR,296306,2.5,Active,Yes,Disabled,Disabled,Verified,Medium,2025-05-15
+ACC000482,C0482,Savings,B012,Jaffna,LKR,317105,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2021-07-13
+ACC000483,C0483,Savings,B005,Matale,LKR,454679,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2013-09-28
+ACC000484,C0484,Savings,B005,Matale,LKR,234644,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2023-04-25
+ACC000485,C0485,Current,B013,Ratnapura,LKR,1941322,0.0,Active,Yes,Enabled,Enabled,Verified,High,2023-04-09
+ACC000486,C0486,Savings,B014,Badulla,LKR,269859,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-04-04
+ACC000487,C0487,Savings,B014,Badulla,LKR,41964,2.5,Active,Yes,Disabled,Enabled,Verified,Low,2026-03-23
+ACC000488,C0488,Savings,B014,Badulla,LKR,421784,2.5,Active,Yes,Enabled,Enabled,Pending,Medium,2025-06-14
+ACC000489,C0489,Savings,B012,Jaffna,LKR,233158,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2022-06-20
+ACC000490,C0490,Savings,B010,Batticaloa,LKR,304369,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2025-05-02
+ACC000491,C0491,Savings,B009,Anuradhapura,LKR,360392,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2023-10-15
+ACC000492,C0492,Savings,B002,Maharagama,LKR,387744,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2026-07-07
+ACC000493,C0493,Savings,B005,Matale,LKR,35280,2.5,Dormant,Yes,Enabled,Enabled,Verified,Low,2026-04-24
+ACC000494,C0494,Savings,B006,Galle,LKR,227580,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-09-25
+ACC000495,C0495,Savings,B009,Anuradhapura,LKR,193354,2.5,Active,Yes,Enabled,Disabled,Verified,Low,2025-06-27
+ACC000496,C0496,Savings,B015,Nuwara Eliya,LKR,308676,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,1984-06-08
+ACC000497,C0497,Savings,B009,Anuradhapura,LKR,402009,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2016-08-05
+ACC000498,C0498,Savings,B007,Matara,LKR,318777,2.5,Active,Yes,Enabled,Enabled,Verified,Medium,2017-04-30
+ACC000499,C0499,Current,B012,Jaffna,LKR,375512,0.0,Active,Yes,Enabled,Enabled,Verified,Medium,2019-01-31
+ACC000500,C0500,Savings,B012,Jaffna,LKR,72358,2.5,Active,Yes,Enabled,Enabled,Verified,Low,2024-10-28

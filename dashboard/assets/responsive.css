@@ -1,0 +1,772 @@
+heta/* Responsive CSS for BankInsight */
+@media (max-width:1200px){
+.content{margin-left:260px;padding:25px;}
+.chart-row{display:flex;flex-direction:column;gap:20px;}
+.cards-container{display:grid;grid-template-columns:repeat(2,1fr);gap:20px;}
+}
+@media (max-width:992px){
+.sidebar{width:220px;padding:18px;}
+.content{margin-left:220px;padding:20px;}
+.navbar{display:flex;flex-wrap:wrap;gap:15px;}
+.nav-right{width:100%;display:flex;justify-content:flex-end;flex-wrap:wrap;}
+.cards-container{grid-template-columns:1fr 1fr;}
+}
+@media (max-width:768px){
+.sidebar{position:relative;width:100%;height:auto;border-right:none;}
+.sidebar-logo{
+
+    width:120px;
+
+    max-width:100%;
+
+    height:auto;
+
+}
+.content{margin-left:0;padding:15px;}
+.navbar{flex-direction:column;align-items:flex-start;}
+.nav-right{width:100%;justify-content:space-between;}
+.cards-container{grid-template-columns:1fr;}
+.chart-row{display:flex;flex-direction:column;}
+.chart-card,.table-card{width:100%;overflow-x:auto;}
+table{min-width:700px;}
+.notification-panel,.settings-panel,.admin-dropdown,.about-panel{width:95%;left:50%;right:auto;transform:translateX(-50%);top:90px;}
+.login-card,.login-container{width:95%;}
+.login-input,.download-btn{width:100%;margin-bottom:10px;}
+.profile,.today{width:100%;text-align:center;}
+}
+@media (max-width:480px){
+body{font-size:14px;}
+.page-title{font-size:20px;}
+.sidebar-logo{
+
+    width:100px;
+
+    max-width:100%;
+
+    height:auto;
+
+}
+.menu-item{padding:10px;font-size:14px;}
+.chart-card,.table-card,.about-panel{padding:15px;}
+.download-btn{font-size:14px;}
+}
+
+/* ==========================================================
+   RESPONSIVE PART 01
+   SIDEBAR + NAVBAR
+==========================================================*/
+
+@media screen and (max-width:1024px){
+
+    .content{
+
+        margin-left:220px;
+
+        padding:25px;
+
+    }
+
+    .sidebar{
+
+        width:220px;
+
+        padding:18px;
+
+    }
+
+    .sidebar-logo{
+
+    width:120px;
+
+    max-width:100%;
+
+    height:auto;
+
+}
+    .sidebar-title{
+
+        font-size:18px;
+
+    }
+
+    .logo-subtitle{
+
+        font-size:12px;
+
+    }
+
+    .menu-item{
+
+        font-size:14px;
+
+        padding:10px 12px;
+
+    }
+
+}
+
+
+/* ==========================
+   TABLET
+==========================*/
+
+@media screen and (max-width:768px){
+
+    body{
+
+        overflow-x:hidden;
+
+    }
+
+    .sidebar{
+
+        position:relative;
+
+        width:100%;
+
+        height:auto;
+
+        border-right:none;
+
+        padding:20px;
+
+    }
+
+    .sidebar-header{
+
+        margin-bottom:20px;
+
+    }
+
+    .sidebar-logo{
+
+        width:90px;
+
+    }
+
+    .sidebar-title{
+
+        font-size:20px;
+
+    }
+
+    .menu{
+
+        margin-top:15px;
+
+    }
+
+    .sidebar-footer{
+
+        margin-top:20px;
+
+    }
+
+    .content{
+
+        margin-left:0;
+
+        padding:18px;
+
+    }
+
+    .navbar{
+
+        display:flex;
+
+        flex-direction:column;
+
+        align-items:flex-start;
+
+        gap:18px;
+
+    }
+
+    .page-title{
+
+        font-size:28px;
+
+    }
+
+    .page-subtitle{
+
+        font-size:13px;
+
+    }
+
+    .nav-right{
+
+        width:100%;
+
+        display:flex;
+
+        justify-content:space-between;
+
+        flex-wrap:wrap;
+
+        gap:10px;
+
+    }
+
+    .profile{
+
+        padding:10px 15px;
+
+        font-size:14px;
+
+    }
+
+    .today{
+
+        width:100%;
+
+        text-align:left;
+
+    }
+
+}
+
+
+/* ==========================
+   MOBILE
+==========================*/
+
+@media screen and (max-width:480px){
+
+    .content{
+
+        padding:15px;
+
+    }
+
+    .page-title{
+
+        font-size:22px;
+
+        line-height:1.3;
+
+    }
+
+    .page-subtitle{
+
+        font-size:12px;
+
+    }
+
+    .nav-right{
+
+        justify-content:center;
+
+    }
+
+    .nav-icon{
+
+        width:42px;
+
+        height:42px;
+
+    }
+
+    .profile{
+
+        width:100%;
+
+        justify-content:center;
+
+    }
+
+    .today{
+
+        text-align:center;
+
+    }
+
+}
+
+/* ==========================================================
+   RESPONSIVE PART 02
+   DASHBOARD + CARDS + CHARTS + TABLES
+==========================================================*/
+
+/* ==========================
+   TABLET
+==========================*/
+
+@media screen and (max-width:768px){
+
+    /* KPI Cards */
+
+    .card-container{
+
+        grid-template-columns:1fr 1fr;
+
+        gap:15px;
+
+    }
+
+    .dashboard-card{
+
+        padding:20px;
+
+        min-height:140px;
+
+    }
+
+    .card-title{
+
+        font-size:15px;
+
+    }
+
+    .card-value{
+
+        font-size:28px;
+
+    }
+
+    .card-icon{
+
+        font-size:28px;
+
+    }
+
+    /* Charts */
+
+    .chart-row{
+
+        display:flex;
+
+        flex-direction:column;
+
+        gap:20px;
+
+    }
+
+    .chart-card{
+
+        width:100%;
+
+        min-height:auto;
+
+        padding:15px;
+
+    }
+
+    /* Tables */
+
+    .table-card{
+
+        width:100%;
+
+        overflow-x:auto;
+
+        padding:18px;
+
+    }
+
+    .table-card table{
+
+        min-width:700px;
+
+    }
+
+    /* AI Insight */
+
+    .insight-list{
+
+        font-size:15px;
+
+        line-height:1.8;
+
+    }
+
+}
+
+
+/* ==========================
+   MOBILE
+==========================*/
+
+@media screen and (max-width:480px){
+
+    /* KPI Cards */
+
+    .card-container{
+
+        grid-template-columns:1fr;
+
+        gap:15px;
+
+    }
+
+    .dashboard-card{
+
+        padding:18px;
+
+        min-height:120px;
+
+    }
+
+    .card-title{
+
+        font-size:14px;
+
+    }
+
+    .card-value{
+
+        font-size:24px;
+
+    }
+
+    /* Charts */
+
+    .chart-row{
+
+        display:flex;
+
+        flex-direction:column;
+
+        gap:15px;
+
+    }
+
+    .chart-card{
+
+        padding:12px;
+
+        border-radius:15px;
+
+    }
+
+    /* Section Titles */
+
+    .section-title{
+
+        font-size:20px;
+
+    }
+
+    /* AI */
+
+    .insight-list{
+
+        font-size:14px;
+
+        padding-left:18px;
+
+    }
+
+    /* Filters */
+
+    .filter-row{
+
+        display:flex;
+
+        flex-direction:column;
+
+        gap:15px;
+
+    }
+
+    .filter-dropdown{
+
+        width:100%;
+
+    }
+
+    /* Buttons */
+
+    .download-btn{
+
+        width:100%;
+
+        margin-bottom:10px;
+
+    }
+
+}
+
+/* ==========================================================
+   RESPONSIVE PART 03 (FINAL)
+   POPUPS + LOGIN + DROPDOWNS + MOBILE POLISH
+==========================================================*/
+
+/* ==========================
+   TABLET
+==========================*/
+
+@media screen and (max-width:768px){
+
+    /* Login */
+
+    .login-container{
+
+        width:95%;
+
+        max-width:420px;
+
+        padding:30px 20px;
+
+    }
+
+    .login-card{
+
+        width:100%;
+
+    }
+
+    .login-input{
+
+        width:100%;
+
+    }
+
+    /* Notification */
+
+    .notification-panel{
+
+        width:92%;
+
+        right:4%;
+
+        left:4%;
+
+        top:90px;
+
+    }
+
+    /* Settings */
+
+    .settings-panel{
+
+        width:250px;
+
+        right:10px;
+
+        top:90px;
+
+    }
+
+    /* Admin */
+
+    .admin-dropdown{
+
+        width:250px;
+
+        right:10px;
+
+        top:90px;
+
+    }
+
+    /* Popups */
+
+    .about-panel{
+
+        width:92%;
+
+        max-width:500px;
+
+        padding:25px;
+
+    }
+
+    .about-panel h2,
+
+    .about-panel h3{
+
+        font-size:24px;
+
+    }
+
+    .about-panel p{
+
+        font-size:15px;
+
+        line-height:1.7;
+
+    }
+
+}
+
+
+/* ==========================
+   MOBILE
+==========================*/
+
+@media screen and (max-width:480px){
+
+    body{
+
+        overflow-x:hidden;
+
+    }
+
+    /* Login */
+
+    .login-container{
+
+        width:94%;
+
+        padding:25px 18px;
+
+    }
+
+    .login-input{
+
+        width:100%;
+
+        margin-bottom:12px;
+
+    }
+
+    /* Popup */
+
+    .about-panel{
+
+        width:94%;
+
+        padding:20px;
+
+        border-radius:14px;
+
+    }
+
+    .about-panel h2{
+
+        font-size:22px;
+
+    }
+
+    .about-panel h3{
+
+        font-size:20px;
+
+    }
+
+    .about-panel p{
+
+        font-size:14px;
+
+    }
+
+    /* Notification */
+
+    .notification-panel{
+
+        width:95%;
+
+        left:50%;
+
+        right:auto;
+
+        transform:translateX(-50%);
+
+    }
+
+    /* Settings */
+
+    .settings-panel{
+
+        width:94%;
+
+        left:50%;
+
+        right:auto;
+
+        transform:translateX(-50%);
+
+    }
+
+    /* Admin */
+
+    .admin-dropdown{
+
+        width:94%;
+
+        left:50%;
+
+        right:auto;
+
+        transform:translateX(-50%);
+
+    }
+
+    /* Dropdown Items */
+
+    .dropdown-item{
+
+        padding:14px;
+
+        font-size:15px;
+
+    }
+
+    .settings-item{
+
+        padding:14px;
+
+        font-size:15px;
+
+    }
+
+    /* Buttons */
+
+    .download-btn{
+
+        width:100%;
+
+        margin-top:10px;
+
+    }
+
+    /* Logout */
+
+    .logout-item{
+
+        width:100%;
+
+    }
+
+    /* Sidebar Footer */
+
+    .version,
+
+    .developer{
+
+        text-align:center;
+
+    }
+
+}
+
+
+/* ==========================
+   LARGE SCREENS
+==========================*/
+
+@media screen and (min-width:1600px){
+
+    .content{
+
+        max-width:1700px;
+
+        margin-left:260px;
+
+    }
+
+    .card-container{
+
+        gap:30px;
+
+    }
+
+    .chart-row{
+
+        gap:30px;
+
+    }
+
+}
+

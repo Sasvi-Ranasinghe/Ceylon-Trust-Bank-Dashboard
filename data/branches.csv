@@ -1,0 +1,16 @@
+BranchID,BranchName,City,Province
+B001,Colombo Fort,Colombo,Western
+B002,Maharagama,Colombo,Western
+B003,Negombo,Negombo,Western
+B004,Kandy,Kandy,Central
+B005,Matale,Matale,Central
+B006,Galle,Galle,Southern
+B007,Matara,Matara,Southern
+B008,Kurunegala,Kurunegala,North Western
+B009,Anuradhapura,Anuradhapura,North Central
+B010,Batticaloa,Batticaloa,Eastern
+B011,Trincomalee,Trincomalee,Eastern
+B012,Jaffna,Jaffna,Northern
+B013,Ratnapura,Ratnapura,Sabaragamuwa
+B014,Badulla,Badulla,Uva
+B015,Nuwara Eliya,Nuwara Eliya,Central
