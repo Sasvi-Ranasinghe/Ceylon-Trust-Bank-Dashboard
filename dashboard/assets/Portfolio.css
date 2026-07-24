@@ -1,0 +1,146 @@
+/* ==========================================
+   PORTFOLIO SCREENSHOT MODE
+==========================================*/
+
+/* Sidebar */
+.sidebar{
+    width:200px !important;
+    padding:16px !important;
+}
+
+.sidebar-logo{
+    width:90px !important;
+}
+
+.sidebar-title{
+    font-size:18px !important;
+}
+
+.logo-subtitle{
+    font-size:11px !important;
+}
+
+.menu{
+    gap:4px !important;
+    margin-top:12px !important;
+}
+
+.menu-item{
+    padding:8px 12px !important;
+    font-size:14px !important;
+}
+
+/* Main Content */
+.content{
+    margin-left:200px !important;
+    padding:20px !important;
+}
+
+/* Navbar */
+.navbar{
+    margin-bottom:18px !important;
+}
+
+.page-title{
+    font-size:28px !important;
+}
+
+.page-subtitle{
+    font-size:14px !important;
+}
+
+/* KPI Cards */
+.card-container{
+    gap:15px !important;
+    margin-top:15px !important;
+}
+
+.dashboard-card{
+    min-height:95px !important;
+    padding:14px !important;
+}
+
+.card-value{
+
+    font-size:22px !important;
+
+}
+
+.card-title{
+
+    font-size:13px !important;
+
+}
+
+.card-icon{
+    font-size:28px !important;
+}
+
+/* Filters */
+.filter-row{
+    margin:15px 0 !important;
+    gap:12px !important;
+}
+
+/* Charts */
+.chart-row{
+    gap:15px !important;
+}
+
+.chart-card{
+    min-height:220px !important;
+    height:220px !important;
+    padding:10px !important;
+    overflow:hidden !important;
+}
+
+/* Tables */
+.table-card{
+    margin-top:15px !important;
+    padding:18px !important;
+}
+
+.section-title{
+    font-size:20px !important;
+    margin-bottom:12px !important;
+}
+
+/* Dashboard Portfolio Mode */
+
+.chart-row{
+
+    grid-template-columns:1fr 1fr !important;
+
+    gap:15px !important;
+
+}
+
+.chart-card{
+    min-height:260px !important;
+}
+
+.table-card{
+    max-height:320px;
+    overflow:auto;
+}
+
+/* Plotly charts */
+.js-plotly-plot,
+.plot-container,
+.svg-container{
+    height:240px !important;
+}
+
+/* Dashboard cards */
+.dashboard-card{
+    min-height:95px !important;
+    padding:14px !important;
+}
+
+.card-value{
+    font-size:22px !important;
+}
+
+.card-title{
+    font-size:13px !important;
+}

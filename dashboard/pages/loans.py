@@ -131,25 +131,6 @@ layout = html.Div(
 
         ),
 
-        html.Div(
-
-            [
-
-                html.H3(
-                    "Top 10 Highest Loans",
-                    className="section-title"
-                ),
-
-                top_loans_table()
-
-            ],
-
-            className="table-card"
-
-        ),
-
-        loan_insight_card()
-
     ]
 
 )

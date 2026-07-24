@@ -37,7 +37,6 @@ def create_sidebar():
 
             ),
 
-            html.Hr(),
 
             # =====================
             # Menu

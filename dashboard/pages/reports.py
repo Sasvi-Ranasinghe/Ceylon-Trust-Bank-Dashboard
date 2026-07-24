@@ -148,55 +148,6 @@ with a loan approval rate of
         ),
 
         # ==========================
-        # AI REPORT
-        # ==========================
-
-        html.Div(
-
-            [
-
-                html.H3(
-                    "🧠 AI Executive Insights",
-                    className="section-title"
-                ),
-
-                html.Ul(
-
-                    [
-
-                        html.Li(
-                            "Savings Accounts remain the dominant banking product."
-                        ),
-
-                        html.Li(
-                            "Western Province contributes the largest customer base."
-                        ),
-
-                        html.Li(
-                            "Digital banking usage continues to grow across customers."
-                        ),
-
-                        html.Li(
-                            "Personal Loans represent the highest lending category."
-                        ),
-
-                        html.Li(
-                            "Overall banking performance indicates a healthy financial portfolio."
-                        )
-
-                    ],
-
-                    className="insight-list"
-
-                )
-
-            ],
-
-            className="table-card"
-
-        ),
-
-        # ==========================
         # EXPORT REPORTS
         # ==========================
 

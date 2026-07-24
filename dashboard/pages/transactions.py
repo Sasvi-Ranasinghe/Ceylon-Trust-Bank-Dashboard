@@ -149,27 +149,6 @@ chart_row(
 
 ),
 
-        html.Div(
-
-            [
-
-                html.H3(
-
-                    "Latest Transactions",
-
-                    className="section-title"
-
-                ),
-
-                recent_transactions_table(),
-                transaction_insight_card()
-
-            ],
-
-            className="table-card"
-
-        )
-
     ]
 
 )

@@ -1,6 +1,5 @@
 import pandas as pd
 import plotly.express as px
-
 from dash import dcc
 
 from utils.data_loader import load_data
@@ -393,7 +392,12 @@ def gender_chart():
 
         font_color="white",
 
-        margin=dict(l=20, r=20, t=50, b=20)
+        margin=dict(
+            l=20,
+            r=20,
+            t=50,
+            b=20
+        )
 
     )
 
@@ -401,7 +405,13 @@ def gender_chart():
 
         figure=fig,
 
-        config={"displayModeBar": False}
+        config={
+            "displayModeBar": False
+        },
+
+        style={
+            "height": "240px"
+        }
 
     )
 
@@ -444,11 +454,9 @@ def province_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar": False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def occupation_chart():
@@ -494,11 +502,9 @@ def occupation_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar": False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def account_status_chart():
@@ -542,11 +548,9 @@ def account_status_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar": False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def average_balance_chart():
@@ -592,11 +596,9 @@ def average_balance_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def deposit_withdrawal_chart():
@@ -639,11 +641,9 @@ def deposit_withdrawal_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar": False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def daily_transaction_chart():
@@ -713,11 +713,9 @@ def daily_transaction_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar": False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def loan_status_chart():
@@ -765,11 +763,9 @@ def loan_status_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def loan_portfolio_chart():
@@ -817,11 +813,9 @@ def loan_portfolio_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def interest_rate_chart():
@@ -872,11 +866,9 @@ def interest_rate_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def branch_customer_chart():
@@ -909,7 +901,8 @@ def branch_customer_chart():
 
     return dcc.Graph(
         figure=fig,
-        config={"displayModeBar": False}
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def branch_deposit_chart():
@@ -940,7 +933,8 @@ def branch_deposit_chart():
 
     return dcc.Graph(
         figure=fig,
-        config={"displayModeBar": False}
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def branch_account_chart():
@@ -986,11 +980,9 @@ def branch_account_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def province_branch_chart():
@@ -1058,13 +1050,9 @@ def province_branch_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={"displayModeBar":False},
-
-        style={"height":"430px"}
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )
 
 def top_branches_chart():
@@ -1150,13 +1138,7 @@ def top_branches_chart():
     )
 
     return dcc.Graph(
-
         figure=fig,
-
-        config={
-
-            "displayModeBar": False
-
-        }
-
+        config={"displayModeBar": False},
+        style={"height": "240px"}
     )

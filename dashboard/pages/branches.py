@@ -101,24 +101,6 @@ layout = html.Div(
 
         ),
 
-        html.Div(
-
-            [
-
-                html.H3(
-                    "Top Performing Branches",
-                    className="section-title"
-                ),
-
-                top_branches_table()
-
-            ],
-
-            className="table-card"
-
-        ),
-        branch_insight_card()
-
     ]
 
 )
